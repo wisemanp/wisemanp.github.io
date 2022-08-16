@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Phil Wiseman's Homepage
 
 You can use the [editor on GitHub](https://github.com/wisemanp/wisemanp.github.io/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
